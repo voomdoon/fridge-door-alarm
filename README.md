@@ -17,9 +17,9 @@ Fridge door alarm using Arduino and reed switch.
     * short interval to debug the behavior
     * green LED enabled
 * single button
-  * **green.** toggle between normal and debug mode
+  * **green:** toggle between normal and debug mode
   * **red** (and yellow): mute alarm
-  * hit: for button presses you need to hold down the button until next interval
+  * hint: for button presses you need to hold down the button until next interval
     * there is a tone if the button press is accepted, then you should release the button to avoid further press handing
 * mute times out after configured time elapsed
 
