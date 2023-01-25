@@ -26,5 +26,9 @@ Fridge door alarm using Arduino and reed switch.
 
 ## Roadmap
 
-* disable power LED
-* add blink of green LED in normal mode
+* add wiring diagram
+* reduce power consumption
+  * disable power LED
+  * use deep sleep
+* use switch for debug mode
+* add blink of green LED in normal mode if door is closed
